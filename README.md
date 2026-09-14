@@ -82,7 +82,7 @@ The landing page contains the following sections:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+git clone https://github.com/preamshah/Landing-page
 ```
 
 ### 2. Open the project
