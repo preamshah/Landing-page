@@ -1,0 +1,63 @@
+@media only screen and (max-width:1300px) { 
+	.banner_image {
+		width: 50%;
+	}
+}
+
+@media only screen and (max-width:991px) { 
+	.banner_image {
+		display: none;
+	}
+	.about-us-content{
+		padding-top: 0;
+		padding-right: 0;
+	}
+	.promo_text{
+		padding-top: 40px;
+	}	
+	
+	.promo_text.promo_2_text{
+		padding-top: 0px;
+		padding-bottom: 40px;
+	}
+	.download_image,
+	.faq_image{
+		margin-top: 30px;
+	}
+	.single-footer{
+		margin-bottom: 30px;
+	}
+}
+
+@media only screen and (max-width:767px) { 
+	.navbar-default .navbar-collapse, .navbar-default .navbar-form{
+		background: #fff;
+		margin: 10px;
+	}
+	.single_screenshot img{
+		
+	}
+	.app_screens_slider .slick-prev,
+	.app_screens_slider .slick-next{
+		display: none!important;
+	}
+	.single_screenshot:before{
+		display: none;
+	}
+	#main-banner h1{
+		font-size: 30px;
+	}
+}
+
+@media only screen and (max-width:575px) { 
+	.review_slider .slick-prev,
+	.review_slider .slick-next{
+		display: none!important;
+	}
+
+}
+
+@media only screen and (max-width:480px) { 
+
+
+}
